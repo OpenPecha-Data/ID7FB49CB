@@ -1,0 +1,20 @@
+id: ID7FB49CB
+default_language: de
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:36.494043
+last_modified: 2023-01-04 11:30:36.494060
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  3DEF:
+    title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+      Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times In
+      the Form of an Aspiration Prayer'
+    base_file: 3DEF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
